@@ -1,0 +1,10 @@
+{
+  "name": "item-name",
+  "link": "https://",
+  "status": "watch",
+  "price": 0.0,
+  "tax": 0.0,
+  "fees": 0.0,
+  "commission": 0.0,
+  "total": ["price", "fees", "commission"]
+}
